@@ -38,3 +38,10 @@ h3 {
     font-size: 250%;
     color: lightblue;
 }
+p3 {
+    position: relative;
+    bottom:-100px;
+    text-align: center;
+    font-size: 200%;
+    color: rgb(103, 199, 230);
+}
