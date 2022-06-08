@@ -1,8 +1,44 @@
-.places {
-    text-align: center;
+.bplaces {
+    display: flex;
     list-style-position: inside;
     color: rgb(103, 199, 230);
     font-size: 200%;
     padding-top: 20px;
+    padding-right: 300px;
+    flex-direction: column;
+    align-items: flex-end;
+    position: relative;
+    top: 85px
+}
 
+.pplaces {
+    display: flex;
+    list-style-position: inside;
+    color: rgb(103, 199, 230);
+    font-size: 200%;
+    padding-top: 20px;
+    padding-left: 300px;
+    flex-direction: column;
+    position: relative;
+    top: -200px;
+}
+.mcdonalds {
+    display: flex;
+    width: 30%;
+    height: auto;
+    display: flex;
+    position: relative;
+    padding-left: 200px;
+}
+
+.pizzahut {
+    display: flex;
+    width: 35%;
+    height: auto;
+    flex-direction: column;
+    justify-items: flex-end;
+    align-content: flex-end;
+    position: relative;
+    top: -420px;
+    padding-left: 300px;
 }
