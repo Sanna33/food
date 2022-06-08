@@ -1,0 +1,40 @@
+h1 {
+    position: relative;
+    text-align: center;
+    font-size: 300%;
+    background-color: lightblue;
+}
+
+h2 {
+    position: relative;
+    bottom:-80px;
+    text-align: center;
+    font-size: 250%;
+    color: lightblue;
+}
+
+
+p1 {
+    position: relative;
+    bottom:-80px;
+    text-align: center;
+    font-size: 200%;
+    color: rgb(103, 199, 230);
+}
+
+
+p2 {
+    position: relative;
+    bottom:-100px;
+    text-align: center;
+    font-size: 200%;
+    color: rgb(103, 199, 230);
+}
+
+h3 {
+    position: relative;
+    bottom:-100px;
+    text-align: center;
+    font-size: 250%;
+    color: lightblue;
+}
