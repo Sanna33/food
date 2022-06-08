@@ -45,3 +45,8 @@ p3 {
     font-size: 200%;
     color: rgb(103, 199, 230);
 }
+
+div {
+    display: flex;
+    justify-content: center;
+    } 
